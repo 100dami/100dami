@@ -1,7 +1,9 @@
-### Hi 👋
-
-
+### Hi YO 👋    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100dami&count_bg=%23FF9999&title_bg=%23746F6F&icon=&icon_color=%23E7E7E7&title=hi+%7E+&edge_flat=false)](https://hits.seeyoufarm.com)
+백다미 ㅃㅏ이띵 ( •̀ .̫ •́ )✧!!
+<br>
+![100dami's github stats](https://github-readme-stats.vercel.app/api?username=100dami&show_icons=true)
 <!--
+
 **100dami/100dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
