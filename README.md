@@ -1,6 +1,6 @@
 ### Hi YO 👋   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100dami&count_bg=%23FF9999&title_bg=%23746F6F&icon=&icon_color=%23E7E7E7&title=hi+%7E+&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--백다미 ㅃㅏ이띵 나는 바보다 멍청이다-->
-열심히 곤ㅇ부하는 중( •̀ .̫ •́ )✧!!
+( •̀ .̫ •́ )✧!!
 <br><br><br>
 ![100dami's github stats](https://github-readme-stats.vercel.app/api?username=100dami&show_icons=true)
 <!--
