@@ -2,7 +2,6 @@
 <!--백다미 ㅃㅏ이띵 나는 바보다 멍청이다-->
 ( •̀ .̫ •́ )✧!!
 <br><br><br>
-![100dami's github stats](https://github-readme-stats.vercel.app/api?username=100dami&show_icons=true)
 <!--
 
 **100dami/100dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
